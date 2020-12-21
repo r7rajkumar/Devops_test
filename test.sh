@@ -1,1 +1,1 @@
-echo "First git job ready"
+echo "First jenkins job"
